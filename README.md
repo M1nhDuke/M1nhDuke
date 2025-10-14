@@ -15,10 +15,12 @@
 ## 💻 Skills
 
 - **Programming Languages:** Python, C/C++, Go, Java
-- **Frameworks & Tools:** Docker, Kubernetes, CUDA and CUDA-Q
+- **Quantum:** Qiskit, Cirq, CUDA-Q
+- **Frameworks & Tools:** Docker, Kubernetes, CUDA, Tensorflow, Pytorch
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Scientific Computing:** MATLAB, LaTeX
 - **Version Control:** Git & GitHub
+- **Operating System:** Window 11, Debian
 
 ---
 
@@ -39,7 +41,7 @@
 ## 🌐 Connect with Me
 
 <!-- Add your social links here (LinkedIn, Twitter, Personal Website, etc.) -->
-[LinkedIn](#) • [Twitter](#) • [Personal Website](#)
+[LinkedIn](https://www.linkedin.com/in/kieu-minh-duke/) • [Instagram](https://www.instagram.com/dukesa1mon/?hl=en) • [Facebook](https://www.facebook.com/kieu.minh.uc.319011/)
 
 ---
 
