@@ -41,7 +41,7 @@
 ## 🌐 Connect with Me
 
 <!-- Add your social links here (LinkedIn, Twitter, Personal Website, etc.) -->
-[LinkedIn](https://www.linkedin.com/in/kieu-minh-duke/) • [Instagram](https://www.instagram.com/dukesa1mon/?hl=en) • [Facebook](https://www.facebook.com/kieu.minh.uc.319011/)
+[LinkedIn](https://www.linkedin.com/in/kieu-minh-duke/) • [Instagram](https://www.instagram.com/dukesa1mon/?hl=en) • [Facebook](https://www.facebook.com/kieu.minh.uc.319011/) • [Leetcode](https://leetcode.com/u/M1nhDuke/)
 
 ---
 
