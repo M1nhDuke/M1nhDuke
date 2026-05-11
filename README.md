@@ -14,13 +14,13 @@
 
 ## 💻 Skills
 
-- **Programming Languages:** Python, C/C++, Go, Java
+- **Programming Languages:** Python, C/C++, Go
 - **Quantum:** Qiskit, Cirq, CUDA-Q
 - **Frameworks & Tools:** Docker, Kubernetes, CUDA, Tensorflow, Pytorch
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Scientific Computing:** MATLAB, LaTeX
 - **Version Control:** Git & GitHub
-- **Operating System:** Window 11, Debian
+- **Operating System:** Debian, Win11
 
 ---
 
