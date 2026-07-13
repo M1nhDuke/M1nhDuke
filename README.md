@@ -6,7 +6,7 @@
 
 ## 👨‍🎓 About Me
 
-- 🎓 Currently a **Data Science Student** at [University of Science and Technology of Hanoi (USTH)](https://usth.edu.vn/)
+- 🎓 Currently a **Data Science Student** at [University of Science and Technology of Hanoi (USTH)](https://usth.edu.vn/), **Quantum Technology Researcher** at [Quantum AI Lab](https://quantum-ai.io.vn/)
 - 🧑‍🔬 Aspiring **Research Scientist** in the field of **Quantum Computing**
 - 🌏 Fluent in **Vietnamese**, **English**, and **French**
 
